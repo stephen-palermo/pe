@@ -1,0 +1,17 @@
+
+TASK: Create a NEW "2026-nomination.txt" file, in this file create 3 bullets for each of the categories below;
+
+CONTEXT: We are creating a 2026 Professional Engineering (PE) Nomination for Stephen Palermo;  Previous 2025 PE nomination ("2025-nomination.txt") and FEEDBACK ("2025-feedback.txt") along with NEW 2026 RESPONSES ("2026-responses.txt") and Technical Rediness Indicators ("2026-TRi.txt") are provided to explain what the 2026 nomination comitee is looking for;  In addition this video "C:\Users\spalermo\Downloads\Writing an Effective PE Candidate Profile.mp4" give further guidance on how to write the nomination;
+
+(1) Scope, Business Need, and Expected Contribution
+(2) Expertise
+(3) Leadership
+(4) Impact
+
+Each category and bullets must be easy to read and rally around a "history of technical innovation directed at customer design wins" and improving Intel products using a solutions-based / customer applied solutions approach, with special ephapsis on recently granted patent describing technical depbth and breakthrough approaches for developing workload optimized silicon produts here: https://patents.google.com/patent/US12348969 and even more emphasis on technical leadership into "Xeon Edge AI" levering recent AI technical patent publications here: https://patents.justia.com/inventor/stephen-t-palermo;
+
+Each category and bullets must comprehend the "2026-TRIs.txt" for nomination guidance;
+
+Each category and bullets must comprehend the  "C:\Users\spalermo\Downloads\Writing an Effective PE Candidate Profile.mp4" video for guidance;
+
+Each category and bullets must comprehend NEW 2026 RESPONSEs here "2026-response.txt" ; 2026 RESPONSE line items are responses to "2025 FEEDBACK" so it is important to interweve and highlight improvements;

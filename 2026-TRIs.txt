@@ -1,0 +1,24 @@
+The PE Nimination Committee is using these Technical Readiness Indicators (TRIs) to judge candidate Readiness:
+
+(1) Expertise-What you know
+(1a) Top domain expert and trusted advisor recognized by Intel, customers, partners, and industry
+(1b) Solves complex technical problems with clear, actionable solutions anchored in customer requirements and industry ecosystems
+(1c) Exercises expert judgment and decision making to evaluate trade-offs and reduce complexity in solution development based on expertise of emerging trends, customer needs, and strategic business priorities
+(1d) Builds, sustains, and leverage networks across Intel and industry to drive technology development
+(1e) Models continuous learning and applies outside-in thinking to advance breadth and depth of technical expertise
+
+(2) Leadership-How you lead
+(2a) Sets clear technical direction anchored in customer success and drives execution aligned with organizational goals
+(2b) Models accountability, owns outcomes, admits mistakes, and learns from failure
+(2c) Invites, listens, and acts on customer feedback with humility and transparency
+(2d) Develops technical talent and the technologist community; mentors and grows others
+(2e) Steward of Intel’s technology-driven culture; builds trust and followership through innovation and empowerment of others’ success 
+(2f) Acts as a change agent and effectively influences across Intel and the industry in pursuit of advancing technology and product development 
+
+(3) Impact-Results you achieve
+(3a) Demonstrates a track record of relentless execution in bringing products and technologies to market
+(3b) Achieves quantifiable and sustained results aligned to organizational goals and Intel’s business outcomes
+(3c) Prioritizes and actively solves Intel’s most critical and complex technical problems 
+(3d) Formulates Intel’s technology strategy and delivers breakthrough leadership solutions for internal and external customers 
+(3e) Delivers predictable, on time, and quality results that consistently beat competitors 
+(3f) Shapes the technology ecosystems, influences industry standards, and achieves meaningful impact in the markets where Intel compete

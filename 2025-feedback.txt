@@ -1,0 +1,35 @@
+12.22.2025
+--------------------
+
+(1) Technical Expertise.  Summarize their expertise as well as any opportunities for growth/gaps.  Reference the TRIs.  Some elements to consider: Technical breath and debth, influence within the company and industry in their domain, ability to set the technical strategy for their area for now and into the future.
+2025-FEEDBACK-Technical Expertise: Summary of Technical Rediness Indicator (TRI) Evidence:
+The candidate demonstrate strong industry connections both within Intel and externally, with excellend recommendations from Google and Dell highlighting established relationships and mutual apprciate.
+Areas for Strenthining Technical Expertise:
+(a) Technical expertise requires concrete examples demonstrating complex problem-solving capabilities and breakthrough achievements.
+(b) Evidence of proven solutions towards customers is not visible.  While broad techical kowlege is evident, deep specialization is unclear; if breadth is strenth, tranlation to measurable results needs better articualtion.
+(c) Current integrator role with ISV may not provide sufficient opportunities to demonstrate complex problem synthesis and resolution.
+(d) Consider having technical references with less lean towrds demonstrationa and schowcases and include more spcific technical expertise.
+
+(2) Leadership. Summarize their Leadership capability/experience and any opportunities for growth/gaps.  Reference the TRIs. Some elements to consider: How they set the technical direction, contributed to execution, their leadership style, and how they engaged the business, engineering, and architecture.  How did they grow thier expertise within the organization and build a culture of inclusion and innovation?
+2025-FEEDBACK-Leadership: Summary of Technical Rediness Indicator (TRI) Evidence:
+The candidate demonstrate effective leadership through direct and team mentorship, facilitating customer pain point discusions that empower others to develop solutions.  Technical contributions are evidenced by patent development and sucessfull product modifications.  Technical leadership is further demonstrated though direct involvelement in securing design wins.
+Areas to increate strenth in Leadership:
+(a) The distinction between driving breakthrough solutions versus existing roadmap/strategy for Edge AI inferencing on CPU is unclear.  
+(b) Key Technical problems identified, influenced, and resolved through leadership initiative are lack of clarity.
+
+(3) Impact. Summarize inpact results achieved both business and technical, and opportunities for growth/gap.  Reference the TRIs.  Some elements to consider: Competitive positioning, innovation, industry influence, relentless/presistent execution, customer relationships, repeatability and scalability.
+2025-FEEDBACK-Impact: Summary of Technical Rediness Indicator (TRI) Evidence:
+Demonstrates impressive industry and customer collaboration that positions Intel as a key player in the Agentic AI CPU market.
+Areas to increase strenth in Impact:
+(a) Evidence of leadership in shaping technical roadmaps is not clearly documented.
+(b) Specific examples of incluencing future hardware or software development decisions are absent.
+(c) Contributions to strategic planning and techical direction-settings needs better articulation.
+
+(4) Forward-Looking.  Elements related to forward-looking on strategy.  Some elements to consider: What is their vision of where they would drive the organization going forward?  How will the applicant use their expertise/experiance in the role to drive strategic direction?
+The committee appreciates the extensive patent portfolio.
+The committee appreciates the network of customers and can utilize that to build a stronger PE portfolio.
+The committee would like to see more expertise and in-debth technical knowledge demonstrated by the candidate.
+The committee suggests mentor for the package if returned to the PE comittee, e.g., the package lacks technlogical support for achievements listed thoughout the package.  The committee will support finding a mentor if desired.
+
+(5) Discussions and Applicaiton Feedback.  Clarity and effectivemness of applicant's communication and any supporting materials.  How well-written was their applicaiton?  How sell was the discussion handled with the committee?
+The package was well recieved by the comittee.  Stong customer references.  The comittee would like to see more internal references.  Suggest adding more technical expert evidence.  The introduction and dicsussion when very well.  The committee suggests having more concise answers to questions.  The lab environment chose by the candidate for the Q and A made it difficult for committee to hear the candidate.

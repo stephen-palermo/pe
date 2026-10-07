@@ -1,0 +1,70 @@
+
+
+(1) 2025-Technical Expertise Rediness Indicator: Technical Expertise.  Summarize their expertise as well as any opportunities for growth/gaps.  Reference the TRIs.  Some elements to consider: Technical breath and debth, influence within the company and industry in their domain, ability to set the technical strategy for their area for now and into the future.
+
+2025-FEEDBACK-Technical Expertise: Summary of Technical Rediness Indicator (TRI) Evidence:
+The candidate demonstrate strong industry connections both within Intel and externally, with excellend recommendations from Google and Dell highlighting established relationships and mutual apprciate.
+
+2025 FEEDBACK-Areas to increase strenth in Technical Expertise:
+2025 FEEDBACK (a) Technical expertise requires concrete examples demonstrating complex problem-solving capabilities and breakthrough achievements.
+2026 RESPONSE (a) Developed and Published a Series of Technical Xeon AI Workshops (computer vision, small language model) to prove the usage of AI necessary to solve actual end-customer (e.g., McDonalds) practical usage, involved a series of iteratives including PyTorch and TensorFlow frameworks w/yolo-series gemma-4 for reasoning necessary for incremental training w/hieartical shifted-window-transformer, combind w/CPU-based inference and stop tokens including end-of-sequence methods in coordinaiton with actual applied customer use cases including table cleanliness;   these breakthrough achievements includ using the same IPcamera to perform "zoom-in-AI" when needed to reduce bandwidth and sustain customer legacy applicaitons;
+
+2025 FEEDBACK (b) Evidence of proven solutions towards customers is not visible.  While broad techical kowlege is evident, deep specialization is unclear; if breadth is strenth, tranlation to measurable results needs better articualtion.
+2026 RESPONSE (b) $100M+ McDonalds design win was fomally acknoleged in August 2026 following monthes of direct technical work initiated and performed by Steve including building "AI-Kits" to model actual solution with the deep technical knowlege and in collaboration with McD user cases, Dell and SuperMicro Platform capabilities, Intel Xeon and AMX capabilities together with Steve's technical breakthroughs including zoom-in-ai, ai-queing, and Xeon AI optimizations that directed open vino work prioritization and experimentation improving computer vision 8x8x8 (8 cameras / 8 cores / 8 AI resouts per second) for mcdonalds drive through needs; customer design win public: https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/; Mcdonalds design win internal only "McDonald's has moved ahead with a significant bulk order for the U.S. deployment. Per Dell, they have received a PO for 22,788 Dell XR8K systems powered by Xeon 4514Y processors, covering the U.S. deployment through September 2027.";
+
+2025 FEEDBACK (c) Current integrator role with ISV may not provide sufficient opportunities to demonstrate complex problem synthesis and resolution.
+2026 RESPONSE (c) Development and experimentation of AI vision and small language model iteration related to "ai-batching/stuffing" created the necessary precursor for ISVs to offer an alternative to NVIDIA CUDA utilizing Intel AMX matrix operations to satisfy Mcdonalds ARCIQ AI requirements and also carving off and focusing the overall Xeon Edge AI team on the XeonEdgeAI "solution zone" (1S Xeon4/5/6 <= 200W)   integrator role with ISV may not provide sufficient opportunities to demonstrate complex problem synthesis and resolution.
+
+2025 FEEDBACK (d) Consider having technical references with less lean towrds demonstrationa and schowcases and include more spcific technical expertise.
+2026 RESPONSE (d) Updated Technical References now shows influence of AI expertise for computer vision, and small languauge model and influencing Google Distributed Cloud Team to recast their workshops as "AI in a BOX" : Chicago: https://rsvp.withgoogle.com/events/2026_gdc_cutting_edge_challenge_day_chi
+
+##############################################################
+(2) 2025-Leadership Rediness Indicator: Leadership. Summarize their Leadership capability/experience and any opportunities for growth/gaps.  Reference the TRIs. Some elements to consider: How they set the technical direction, contributed to execution, their leadership style, and how they engaged the business, engineering, and architecture.  How did they grow thier expertise within the organization and build a culture of inclusion and innovation?
+
+2025-FEEDBACK-Leadership: Summary of Technical Rediness Indicator (TRI) Evidence:
+The candidate demonstrate effective leadership through direct and team mentorship, facilitating customer pain point discusions that empower others to develop solutions.  Technical contributions are evidenced by patent development and sucessfull product modifications.  Technical leadership is further demonstrated though direct involvelement in securing design wins.
+
+2025 FEEDBACK-Areas to increase strenth Leadership:
+2025 FEEDBACK: (a) The distinction between driving breakthrough solutions versus existing roadmap/strategy for Edge AI inferencing on CPU is unclear.  
+2026 RESPONSE: (a) Steve's direct invovlment and development in support of improving our DCG/Products/arch in alignment w/Intel's Performance and Power Team, Steve fully the team with "fondational architecture" benechmarks deisgned to enabled with the Xeon-Edge-AI CV architecture benchmark, espcially “8x8x8”;This is just a start, we need to keep updating w/OV releases and add future distributed solution, slm, agentic over next 1 year: https://github.com/stephen-palermo/workshop-xeon-edge-ai-computer-vision; https://github.com/stephen-palermo/workshop-xeon-edge-ai-gemma; https://github.com/stephen-palermo/mcdonalds-fingermark-yolo26 
+
+2025 FEEDBACK: (b) Key Technical problems identified, influenced, and resolved through leadership initiative are lack of clarity.
+2026 RESPONSE: (b) Steve Created and delivered all technical computer vision and small language models hands-on technical “AI in a Box" workshops with and directly influenced Google to re-tool their workshops to highlighe Steve's contubutions calling it "AI in a Box" : Atlanta: https://rsvp.withgoogle.com/events/2026_inference_at_the_edge_forum_atl; Chicago: https://rsvp.withgoogle.com/events/2026_gdc_cutting_edge_challenge_day_chi; From Google: Overview Join us for Workshop: “AI in a Box'," an engaging, hands-on GDC workshop designed specifically for Enterprise IT professionals. Whether you are an entry-level technician or an experienced engineer, this workshop offers a unique opportunity to gain practical, hands-on experience with edge AI deployments;
+##############################################################
+
+
+
+(3) Impact. Summarize inpact results achieved both business and technical, and opportunities for growth/gap.  Reference the TRIs.  Some elements to consider: Competitive positioning, innovation, industry influence, relentless/presistent execution, customer relationships, repeatability and scalability.
+2025-FEEDBACK-Impact: Summary of Technical Rediness Indicator (TRI) Evidence:
+Demonstrates impressive industry and customer collaboration that positions Intel as a key player in the Agentic AI CPU market.
+
+Areas to increase strenth in Impact:
+2025 FEEDBACK (a) Evidence of leadership in shaping technical roadmaps is not clearly documented.
+2026 RESPONSE (a) Steve developed and led the creation of a NEW category of AI bnechmarks used to improve DCG future roadmap, first of the series is:  https://github.com/stephen-palermo/workshop-xeon-edge-ai-computer-vision;
+
+2025 FEEDBACK (b) Specific examples of incluencing future hardware or software development decisions are absent.
+2026 RESPONSE (b) Steve is leading the Xeon Edge AI product decisions via the Intel Architecture Power and Performance Groups espcially those deisctions that involve Xeon and or Client (Nova Lake) derivitive products that invovle AI accelerators and or the use of "P" vesrus "E" Cores and ingerated ethernet in regards to concurrent agentic AI workloads that use small language models such as gemma; steve's shows external customers how to use Intel technologies for AI, including computer vision, small language models, and agentic AI.  
+
+2025 FEEDBACK (c) Contributions to strategic planning and techical direction-settings needs better articulation.
+2026 RESPONSE: Steve leadership the internal effort to optimize silicon for our Xeon edge AI customers, including new technologies to enhance AI workloads such as AI queue management, multi-tiered AI computer vision, and practical AI deployment options with today's Intel silicon as well as forward-looking options. Repositories:
+- https://github.com/stephen-palermo/workshop-xeon-edge-ai-computer-vision; - https://github.com/stephen-palermo/workshop-xeon-edge-ai-gemma
+##############################################################
+
+
+(4) Forward-Looking.  Elements related to forward-looking on strategy.  Some elements to consider: What is their vision of where they would drive the organization going forward?  How will the applicant use their expertise/experiance in the role to drive strategic direction?
+2025 FEEDBACK (a) The committee appreciates the extensive patent portfolio.
+2026 RESPONSE (a) Steve has extended his paten profile this year has filed 8 additional patents and has been granted another 5 patents; Intel total is in excess of 100+ patents files and or granted;
+
+2025 FEEDBACK (b) The committee appreciates the network of customers and can utilize that to build a stronger PE portfolio.
+2026 RESPONSE (b) Steve has been working directly with Google and customer Tech leads;
+
+2025 FEEDBACK (c) The committee would like to see more expertise and in-debth technical knowledge demonstrated by the candidate.
+2026 RESPONSE (c) See Steve's recently granted patent "Workload Optimized CPU" https://patents.google.com/patent/US12348969, for details on technical direction and approach See the in-depby workshop and technical breakthoughs this year in the git hub repositories and all the marketable related 2026 patents published here: https://patents.justia.com/inventor/stephen-t-palermo;  Also a few days ago Steve's Forward Looking Satellite and Terrestrial Edge Standard and associated specification was approved by the ATIS NTN Work group after a 10 year effort setting the state for Edge based designs for Low Earth Orbit Edge solutions for companies such as SpaceX, Iridium, and Amazon LEO.
+
+2025 FEEDBACK (d) The committee suggests mentor for the package if returned to the PE comittee, e.g., the package lacks technlogical support for achievements listed thoughout the package.  The committee will support finding a mentor if desired.
+2026 RESPONSE (d) Steve has been mentoring a new person--see referencesferences
+
+
+##############################################################
+
+

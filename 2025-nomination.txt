@@ -1,0 +1,127 @@
+12.4.2025
+
+Stephen Palermo (10634422)
+Nomination for Principal Engineer, November 2025
+System Software Development Engineer - Data Center Group (DCG) - Bhupesh Agrawal (11001634)
+
+(1) Eligibility: Does the BU have a business need for a PE/SPE with this technical expertise, and is this candidate deemed ready for PE/SPE promotion (meets TRI expectations)? Select Yes or No in the Assessment field below.
+
+Yes
+NEX leader - Cristina Rodriguez
+
+(2) Scope & Expected Contribution: What are the candidate's core responsibilities in their current role and expected contribution after the proposed promotion? (850 character limit)
+
+Steve is a lead engineer for the NEX Enterprise AI program, driving a target of $500M in LRP revenue by 2029 through collaboration with Tier-1 OEMs (Dell, HPE) and major customers (Google, Lumen, Nokia). He manages end-to-end software integration and system blueprints with ISV partners to optimize commercial AI apps for on-prem edge using an engineering-first approach. Steve is a proven innovator; he holds 71 granted and 40 pending patents and was named Intel’s 2024 Inventor of the Year. As a PE, he will expand his technical and business impact by shaping Intel’s AI roadmap, advancing visual analytics and LLM integration, and increasing Intel’s influence across the Enterprise AI ecosystem and various AI technology forums through external technology leadership and customer-driven innovation.
+
+(3) Business Need: Why is this role business critical at this time? How does this role give Intel a competitive advantage? (850 character limit)
+
+Enterprise AI and connectivity on on-prem infrastructure are huge growth opptys for NEX businesses. Intel has lost its place in the “training" space of data centers, but NEX’s Enterprise program with T1 OEM partners and lead end-customers indicates that enterprises value the TCO story of CPU-native inferencing for AI. But this can only be possible if we work very closely with lead industry players, ISVs, and drive their requirements into our Si products (and roadmaps). To do that, we need employees like Steve who bring both hands-on HW/SW lab/customer experience and silicon product management experience. Steve patents in the space of enterprise edge AI & connectivity are already giving NEX technological advantages. The role will help NEX/DCG establish itself as a trusted enterprise AI solution provider to unlock new business opportunities.
+
+(4) Expertise: Describe the candidate’s skill and expertise in their domain, including specific examples. (1700 character limit)
+• What is the candidate’s area of expertise, industry influence, and sustained body of work?
+• How does this expertise contribute to Intel’s strategy and success?
+• How has the candidate demonstrated depth and/or breadth of expertise and how has that impacted Intel and/or the industry?
+
+Area of expertise: Steve has deep HW/SW tech. background. As a silicon product manager of several generations of Xeon CPUs in one of his prior roles, Steve has driven CPU and platform requirements for silicon-optimized infrastructures of NEX’s T1 customers. Currently, he is working with partners and customers’ AI teams and driving innovation in AI/ML and data analytics workloads on NEX platforms, as reflected by the reference letters. This includes developing and integrating E2E AI solutions and using the learnings to file IDFs. Depth/breadth of expertise: His hands-on approach and real engineering work through the NEX enterprise AI program have proven that modern AI workloads from LLMs to computer vision can run efficiently on Intel CPUs,helping T1 OEMs and NEX customers to drive Xeon as a preferred platform for enterprise AI. See reference letters for feedback from our partners. His patented workload-optimized silicon method (US012348969B2) has been productized across Xeon, influencing CPU design and workload binning industry-wide (e.g.,workload-optimized & hybrid Xeon-FPGA; Dynamic Load Bal &QuickAssist.
+Expertise contribution: Steve advances Intel’s Enterprise AI strategy by driving the adoption of CPU-native inferencing and hybrid acceleration technologies. His work has positioned Enterprise AI as a key NEX platform workload supporting Intel’s $500M LRP revenue target by 2029. He has secured major customers like Google, Lumen etc., and expanded solutions across OEMs (HPE, Supermicro, Cisco, and Lanner)—validated by recent industry recognition. See: “Intel Scores an Agentic AI Win: https://finance.yahoo.com/news/intel-scores-agentic-aiwin-105500528.html"
+
+(5) Leadership: Describe how the candidate develops and builds technical talent. (1700 character limit)
+• REQUIRED - How is the candidate developing technical talent and building the technical leader community in their domain? Provide specific examples, quotes and results.
+• How does the candidate foster a culture of inclusion, innovation, and empowerment of others’ success?
+• What are the candidate’s biggest opportunities for growth as a leader? How is the candidate demonstrating self-awareness and a desire to improve?
+
+Steve develops and elevates technical talent by leading through examples. His “fail-fast/try-it” approach encourages experimentation, accountability, and technical excellence. Through direct mentorship of ~7 engineers (RCG to Grade 9) and collaboration with over 100+ innovators, he has driven 120+ invention disclosures and 50+ customers' product deployments with 100+ PEs/SPEs/Fellows at Intel. His blueprinting and knowledge-sharing methods have strengthened the broader technical community and aligned teams around innovation and results.
+Steve’s dedication to collaborative Innovation has been used to help fortify promotions for several young engineers within Intel.
+Steve proactively influences NEX architect teams by showing and communicating technical information necessary to drive future product decisions, including silicon design, performance profiling, and manufacturing. “Internally, Steve has played a key role in educating my team on customer pain points in enterprise AI, helping us translate those challenges into innovative solutions that have driven new approaches in networking and AI workloads” -Shrikant Shah (SPE @ Intel) From a serial inventor at Intel to an industry voice for enterprise AI: Technical Innovation in Steve’s strength, his promotion to PE will give him growth opportunities internally and externally, including expanding his organizational voice and influence on further empowering Intel mentees and the Industry with technical know-how to grow. He actively seeks feedback and demonstrates a strong desire to grow as a solid technologist and a team player, and this will be a strength when he works with other industry technologists.
+
+
+(6) Impact: Describe the candidate’s performance, impact, and results. Include two or more recent examples and describe the impact to Intel and/or the industry. (1700 character limit)
+• How has the candidate formulated strategies to deliver leadership solutions for our internal and external
+customers?
+• How is the candidate focused on solving Intel’s most important and difficult technical problems?
+• How has the candidate demonstrated a track record of relentless execution in bringing ideas to market?
+
+Steve has over 25 years of combined technical and business experience. In his prior role as a product manager, he drove several generations of Xeon product lines. This includes working with tier-1 customers of NEX, such as Cisco, Ericsson, Nokia, and Microsoft, among others. He was instrumental in developing some of the very first custom Xeon SKUs for tier-1 customers in NEX and delivered >$1 billion in revenue for the NEX business. Now, in his current role as a lead Enterprise AI engineer, he leads engagements with tier-1 OEMs, including Dell and HPE, and collaborates with key customers such as Google. He builds strategies and engagement plans by working with customers’ tech leads, as reflected in feedback from Google and Dell
+tech leads. He has received recognition from both internal and external teams on several occasions.
+One of Intel’s most important problems is its presence in the AI market. In NEX, he collaborated with his management team to launch an Enterprise AI program, focusing on partnering with Intel’s ISV ecosystem and delivering pre-verified edge solutions on OEM platforms, including the Dell XR8000, HPE DL110, and Cisco Unified edge. This new engineering-first approach has been lauded by OEMs, ISVs, SIs, and end customers because it helps them deliver solutions with faster TTM and minimal engineering resources. He used his product management skills and knowledge of Xeon architecture and instruction sets, and he has been able to deliver the best performance benchmarks on edge AI workloads, like computer vision, gen AI, and agentic AI use cases. This enables us to set a bold target of $500 million in 5-year LRP revenue, and we are confident in it.
+
+
+(7) PE/SPE - 1st TECHNICAL Reference:
+
+Mike Ensor
+Tech Lead, Distributed Edge Solutions, Google
+ensor@google.com
+Bhupesh,
+I am writing to offer my strongest recommendation for Steve for the PE role. Steve was a key partner in co-creating
+the recent Google GDC Cutting Edge Event workshop in Toronto, where he demonstrated exceptional technical
+capability and leadership. He was driven to make the event a fun and engaging experience, proactively identifying
+and minimizing technology toil so participants could focus on the core challenge. He implemented and led the
+“Object Detection” portion of the event—an AI inference challenge showcasing Google GDC’s CPU-only
+performance. His solution allowed participants to dynamically select AI models, quantization levels, input frame
+rates, and frameworks, effectively illustrating AI inference without GPUs. Steve also integrated MQTT telemetry for
+live leaderboard tracking, capturing per-team metrics such as FPS, CPU AMX/AVX usage, and timestamps. His
+design was a direct and significant contributor to the event's success and high level of customer engagement. I will
+collaborate with him again on the upcoming MWC and Google Cutting Edge initiatives. It has been a pleasure
+working with Steve; he is a true professional.
+Sincerely,
+Mike
+
+
+(8) PE/SPE - 2nd TECHNICAL Reference:
+Suresh Raam
+Distinguished Engineer, AI Solutions, Dell
+Suresh.raam@dell.com
+I have directly worked with Steve, standing up the program with ISVs, SIs, and showcasing CPU Native AI
+inferencing on Dell PowerEdge XR8000 with Intel Xeon products to many Enterprises, CSPs, and Telcos. The
+program has significant market traction.
+Steve is a highly effective hardware & software solutions engineer with a proven track record of successful
+collaboration. He worked closely with my team, as well as with SIs and customers, to expand the technical
+capabilities of the Enterprise AI program. By identifying customer needs, Steve significantly enhanced the
+program's offerings. Steve demonstrated that AI inference is possible on the XR8K Servers using CPU-native
+options. This unlocked new market segments for us. He anticipated the need for customers to run multiple
+edge AI applications and models from 3rd-party vendors on a single server.
+Steve's technical leadership and foresight in anticipating market needs have made a significant and lasting
+impact on the program. He has been instrumental, with his monumental efforts, contributing to the success
+and traction of this program and the opportunities it has unlocked.
+I wholeheartedly support and nominate him for his PE candidacy.
+BR
+Suresh
+
+(9) PE/SPE - MENTORSHIP/LEADERSHIP Reference:
+Shrikant Shah,
+Sr PE, NEX Architecture Team
+shrikant.m.shah@intel.com
+It is my pleasure to recommend Steve for the PE nomination. Steve has been an exceptional collaborator on the
+NEX Performance Arch team, consistently contributing valuable technical insights that have shaped new product
+directions and PnP techniques. His deep understanding of the business has also provided critical perspectives that
+have influenced our strategy over the past 12 years.
+I appreciate Steve’s role as a trusted mentor to a wide range of Edge AI customers—from Tier-1 OEMs to strategic
+OSVs—where he has shared advanced edge AI techniques and arch expertise. His extensive hands-on efforts
+have helped establish Intel’s strong foothold in the Edge AI space.
+Steve has played a key role in educating my team on customer pain points in Edge AI, helping us translate those
+challenges into innovative solutions that have driven new approaches in network/AI workloads. Through our
+collaboration, we successfully advanced our teams’ capabilities to deliver breakthrough workload optimization for
+our customers. This effort led to the joint submission and award of a patent for workload-optimized silicon
+technologies.
+Steve is also a mentor to my team members. I strongly support Steve’s PE Nomination.
+
+
+(11) Supporting Technical Evidence (optional): Use this section to provide any other significant information and evidence in support of the candidate’s nomination, such as recognitions, education, white papers, external publications, patents, involvement in industry societies and communities, etc. (2040 character limit) Steve demonstrates exceptional and sustained technical leadership, advancing Intel’s innovation in cloud, edge, and NextG/AI infrastructure. Recipient of the 2024 Intel Top Inventors of the Year Award, he holds 71 granted patents and 110 follow-on filings, representing a prolific record of innovation that directly strengthens Intel’s IP portfolio and competitive position in compute, networking, and AI convergence domains.
+Award Recognition: Recipient of the 2024 Intel Top Inventors of the Year Award.
+Intellectual Property & Innovation: 71 Granted Patents and 110 Follow-On Filings in cloud, edge, and AI infrastructure. Inventions span 5G/6G terrestrial and non-terrestrial networks, AI-driven network optimization, and CPU workload acceleration—key differentiators for Xeon and Edge solutions.
+Recent innovations include: (a) Systems, Methods, and Apparatus For Workload Optimized Central Processing Units (2025 Grant) (b) Load-Balanced Link Aggregation (2025) (c) Non-Terrestrial Mission Planning and Scheduling (2025) (d) Telemetry Data Correlation for Computing Systems (2024) (e.) Collectively, these patents enhance scalability, resilience, and automation across distributed compute and AI networks.
+Industry Standards Leadership: Intel Representative for the Alliance for Telecommunications Industry Solutions (ATIS) for over a decade. Influences global NextG 5G/6G standardization and Intel’s competitive positioning in hybrid cloud and edge computing markets.
+Academic and Ecosystem Leadership: Board Member (10+ years) – Arizona State University, School of Computing and Augmented Intelligence (SCAI), Guides academic research and curriculum to align with Intel’s technical talent strategies.
+Impact Summary: Combines deep technical invention, standards influence, and academic collaboration.
+Advances Intel’s leadership in AI-optimized compute, connectivity, and distributed systems.
+(Patent reference: https://patents.justia.com/inventor/stephen-t-palermo)
+
+(12) Month and Year of previous nomination:
+Not Applicable
+
+(13) Previous committee feedback:
+Not Applicable
+
+(14) Describe how the feedback has been or is being addressed, including specific results and data where possible.
+(1700 characters)
+Not Applicable
