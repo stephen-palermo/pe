@@ -1,0 +1,136 @@
+10.7.2026
+
+Stephen Palermo (10634422)
+Nomination for Principal Engineer, November 2026
+System Software Development Engineer - Data Center Group (DCG) - Bhupesh Agrawal (11001634)
+
+(1) Eligibility: Does the BU have a business need for a PE/SPE with this technical expertise, and is this candidate deemed ready for PE/SPE promotion (meets TRI expectations)? Select Yes or No in the Assessment field below.
+
+Yes
+DCG leader - Srini Krishna
+
+(2) Scope & Expected Contribution: What are the candidate's core responsibilities in their current role and expected contribution after the proposed promotion? (850 character limit)
+
+Steve owns the end-to-end technical scope of Intel's Xeon Edge AI solution zone (1S Xeon 4/5/6, <=200W), translating customer AI requirements (computer vision, SLM, agentic) into silicon-optimized designs. This ownership delivered the $100M+ McDonald's ARCIQ drive-thru design win, backed by a PO for 22,788 Dell XR8000/Xeon 4514Y systems through September 2027. His granted patent on workload-optimized silicon (US12348969) is the technical backbone of this solution zone. As a PE, Steve will extend this patent-to-product pattern, using his growing Xeon Edge AI patent portfolio to directly shape P-core/E-core and AI-accelerator trade-offs for upcoming Xeon and client (Nova Lake) silicon, scaling the design-win playbook to the next wave of enterprise edge customers.
+
+(3) Business Need: Why is this role business critical at this time? How does this role give Intel a competitive advantage? (850 character limit)
+
+CPU-native AI inferencing on DCG's Xeon Edge AI platforms is Intel's clearest path to Edge AI share now that Intel is out of the GPU training market. Steve's granted patent on workload-optimized silicon (US12348969) is the technical backbone of this strategy, giving Xeon a defensible, patented TCO advantage with Tier-1 OEMs (Dell, HPE, Supermicro) and lead customers (Google, McDonald's). The $100M+ McDonald's ARCIQ design win, backed by a PO for 22,788 Dell XR8000/Xeon 4514Y systems through September 2027, proves this technical approach converts directly into revenue. Without Steve's silicon-level depth translating customer AI requirements into Xeon-optimized designs, DCG risks ceding enterprise edge AI share to GPU-centric competitors.
+
+(4) Expertise: Describe the candidate's skill and expertise in their domain, including specific examples. (1700 character limit)
+• What is the candidate's area of expertise, industry influence, and sustained body of work?
+• How does this expertise contribute to Intel's strategy and success?
+• How has the candidate demonstrated depth and/or breadth of expertise and how has that impacted Intel and/or the industry?
+
+Area of expertise: Steve owns deep silicon-to-solution expertise across Xeon Edge AI (1S Xeon 4/5/6, <=200W), computer vision, small language models, and agentic AI. He developed and published a series of technical Xeon AI workshops proving breakthrough techniques: hierarchical shifted-window transformers for incremental training, CPU-based inference with stop-token/EOS optimization, and his own "zoom-in-AI" method that reuses a single IP camera to cut bandwidth while preserving legacy customer applications (github.com/stephen-palermo/workshop-xeon-edge-ai-computer-vision, workshop-xeon-edge-ai-gemma, mcdonalds-fingermark-yolo26).
+Depth/breadth of expertise: His AI-Kits methodology-combining zoom-in-AI, AI-queuing, and OpenVINO-directed Xeon/AMX optimization-delivered an 8x8x8 computer-vision benchmark (8 cameras/8 cores/8 AI results-per-second) that became the technical foundation of the McDonald's ARCIQ design win. His AI-batching/stuffing work gave ISVs an AMX-based alternative to NVIDIA CUDA.
+Expertise contribution: His granted workload-optimized-silicon patent (US12348969) has been productized across Xeon, and he added 8 new patent filings and 5 grants this cycle (100+ total: patents.justia.com/inventor/stephen-t-palermo), directly strengthening Intel's silicon-level IP position in CPU-native AI inferencing.
+
+(5) Leadership: Describe how the candidate develops and builds technical talent. (1700 character limit)
+• REQUIRED - How is the candidate developing technical talent and building the technical leader community in their domain? Provide specific examples, quotes and results.
+• How does the candidate foster a culture of inclusion, innovation, and empowerment of others' success?
+• What are the candidate's biggest opportunities for growth as a leader? How is the candidate demonstrating self-awareness and a desire to improve?
+
+Steve sets clear technical direction by founding the Xeon-Edge-AI computer-vision architecture benchmark with Intel's Performance & Power team, establishing a new, repeatable foundational benchmark (8x8x8) that the team is actively extending with OpenVINO releases, distributed solutions, SLM, and agentic workloads over the next year-a concrete breakthrough distinct from existing roadmap execution.
+He builds the technical community and industry influence by open-sourcing his workshop methodology and personally delivering hands-on "AI in a Box" sessions that led Google to rebrand its own GDC Enterprise workshops around his contribution (Atlanta, Chicago events).
+In direct response to prior committee feedback on mentorship, Steve added a new mentee this cycle and refreshed his technical references to foreground deep AI/silicon expertise rather than demos alone-continuing his track record of 7+ direct mentees and 100+ collaborators across Intel's PE/SPE/Fellow community. "Steve has played a key role in educating my team on customer pain points in enterprise AI, helping us translate those challenges into innovative solutions" -Shrikant Shah (SPE @ Intel).
+
+(6) Impact: Describe the candidate's performance, impact, and results. Include two or more recent examples and describe the impact to Intel and/or the industry. (1700 character limit)
+• How has the candidate formulated strategies to deliver leadership solutions for our internal and external
+customers?
+• How is the candidate focused on solving Intel's most important and difficult technical problems?
+• How has the candidate demonstrated a track record of relentless execution in bringing ideas to market?
+
+Steve delivered the $100M+ McDonald's ARCIQ design win-publicly announced (restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy) and backed by a PO for 22,788 Dell XR8000/Xeon 4514Y systems through September 2027-a direct, traceable outcome of his technical breakthroughs (zoom-in-AI, AI-queuing, 8x8x8 benchmarking).
+Steve now directly informs Intel Architecture Power & Performance Group trade-offs on P-core vs. E-core allocation, integrated Ethernet, and AI accelerators for concurrent agentic/SLM workloads (e.g., Gemma) on Xeon and Nova Lake-class silicon.
+Building on his granted workload-optimized-CPU patent (US12348969), Steve added 8 new patent filings and 5 grants this cycle (100+ total), and closed a decade-long effort to win ATIS NTN approval of his LEO satellite/terrestrial edge standard-opening Xeon Edge AI designs to SpaceX, Iridium, and Amazon LEO, and extending Intel's standards influence beyond CPU silicon into edge network architecture.
+
+(7) PE/SPE - 1st TECHNICAL Reference:
+
+Mike Ensor
+Tech Lead, Distributed Edge Solutions, Google
+ensor@google.com
+Bhupesh,
+I am writing to offer my strongest recommendation for Steve for the PE role. Steve was a key partner in co-creating
+the recent Google GDC Cutting Edge Event workshop in Toronto, where he demonstrated exceptional technical
+capability and leadership. He was driven to make the event a fun and engaging experience, proactively identifying
+and minimizing technology toil so participants could focus on the core challenge. He implemented and led the
+“Object Detection” portion of the event—an AI inference challenge showcasing Google GDC’s CPU-only
+performance. His solution allowed participants to dynamically select AI models, quantization levels, input frame
+rates, and frameworks, effectively illustrating AI inference without GPUs. Steve also integrated MQTT telemetry for
+live leaderboard tracking, capturing per-team metrics such as FPS, CPU AMX/AVX usage, and timestamps. His
+design was a direct and significant contributor to the event's success and high level of customer engagement. I will
+collaborate with him again on the upcoming MWC and Google Cutting Edge initiatives. It has been a pleasure
+working with Steve; he is a true professional.
+Sincerely,
+Mike
+
+
+(8) PE/SPE - 2nd TECHNICAL Reference:
+Suresh Raam
+Distinguished Engineer, AI Solutions, Dell
+Suresh.raam@dell.com
+I have directly worked with Steve, standing up the program with ISVs, SIs, and showcasing CPU Native AI
+inferencing on Dell PowerEdge XR8000 with Intel Xeon products to many Enterprises, CSPs, and Telcos. The
+program has significant market traction.
+Steve is a highly effective hardware & software solutions engineer with a proven track record of successful
+collaboration. He worked closely with my team, as well as with SIs and customers, to expand the technical
+capabilities of the Enterprise AI program. By identifying customer needs, Steve significantly enhanced the
+program's offerings. Steve demonstrated that AI inference is possible on the XR8K Servers using CPU-native
+options. This unlocked new market segments for us. He anticipated the need for customers to run multiple
+edge AI applications and models from 3rd-party vendors on a single server.
+Steve's technical leadership and foresight in anticipating market needs have made a significant and lasting
+impact on the program. He has been instrumental, with his monumental efforts, contributing to the success
+and traction of this program and the opportunities it has unlocked.
+I wholeheartedly support and nominate him for his PE candidacy.
+BR
+Suresh
+
+(9) PE/SPE - MENTORSHIP/LEADERSHIP Reference:
+Shrikant Shah,
+Sr PE, DCG Architecture Team
+shrikant.m.shah@intel.com
+It is my pleasure to recommend Steve for the PE nomination. Steve has been an exceptional collaborator on the
+DCG Performance Arch team, consistently contributing valuable technical insights that have shaped new product
+directions and PnP techniques. His deep understanding of the business has also provided critical perspectives that
+have influenced our strategy over the past 12 years.
+I appreciate Steve’s role as a trusted mentor to a wide range of Edge AI customers—from Tier-1 OEMs to strategic
+OSVs—where he has shared advanced edge AI techniques and arch expertise. His extensive hands-on efforts
+have helped establish Intel’s strong foothold in the Edge AI space.
+Steve has played a key role in educating my team on customer pain points in Edge AI, helping us translate those
+challenges into innovative solutions that have driven new approaches in network/AI workloads. Through our
+collaboration, we successfully advanced our teams’ capabilities to deliver breakthrough workload optimization for
+our customers. This effort led to the joint submission and award of a patent for workload-optimized silicon
+technologies.
+Steve is also a mentor to my team members. I strongly support Steve’s PE Nomination.
+
+
+(11) Supporting Technical Evidence (optional): Use this section to provide any other significant information and evidence in support of the candidate’s nomination, such as recognitions, education, white papers, external publications, patents, involvement in industry societies and communities, etc. (2040 character limit)
+
+Steve demonstrates exceptional and sustained technical leadership, advancing Intel's innovation in cloud, edge, and NextG/AI infrastructure. Building on his 2024 Intel Top Inventors of the Year Award, he added 8 new patent filings and 5 grants this cycle, bringing his portfolio past 100+ patents granted and filed-an accelerating record of innovation strengthening Intel's IP position in compute, networking, and AI convergence.
+Intellectual Property & Innovation: 76+ Granted Patents (incl. US12348969, Workload Optimized CPU) spanning 5G/6G terrestrial and non-terrestrial networks, AI-driven network optimization, and CPU workload acceleration-key differentiators for Xeon and Edge AI solutions.
+Industry Standards Leadership: Intel Representative for the Alliance for Telecommunications Industry Solutions (ATIS) for over a decade; this cycle closed a decade-long effort to win ATIS NTN approval of his LEO satellite/terrestrial edge standard, opening Xeon Edge AI designs to SpaceX, Iridium, and Amazon LEO.
+Academic and Ecosystem Leadership: Board Member (10+ years)-Arizona State University, School of Computing and Augmented Intelligence (SCAI); guides academic research and curriculum aligned with Intel's technical talent strategy.
+Open-Source Technical Leadership: Published workshop-xeon-edge-ai-computer-vision, workshop-xeon-edge-ai-gemma, and mcdonalds-fingermark-yolo26 repositories, directly enabling Google to rebrand its GDC Enterprise workshops as "AI in a Box."
+Impact Summary: Combines deep technical invention, standards influence, and academic collaboration, advancing Intel's leadership in AI-optimized compute, connectivity, and distributed systems.
+(Patent reference: https://patents.justia.com/inventor/stephen-t-palermo)
+
+(12) Month and Year of previous nomination:
+November 2025
+
+(13) Previous committee feedback:
+
+(a) Technical Expertise: Needed concrete examples of complex problem-solving/breakthroughs; unclear specialization and measurable results; integrator role with ISV questioned; references leaned toward demos.
+(b) Leadership: Unclear distinction between breakthrough solutions and existing roadmap/strategy for Edge AI inferencing on CPU; key technical problems resolved through leadership initiative lacked clarity.
+(c) Impact: Leadership in shaping technical roadmaps not clearly documented; no specific examples of influencing future HW/SW decisions; strategic-planning contributions needed better articulation.
+(d) Forward-Looking: Committee valued the patent portfolio and customer network, wanted deeper technical knowledge demonstrated, and suggested finding a mentor.
+(e) Discussion: Package and customer references were well received; committee wanted more internal references, more technical-expert evidence, and more concise Q&A responses; lab environment made the candidate hard to hear.
+
+(14) Describe how the feedback has been or is being addressed, including specific results and data where possible.
+(1700 characters)
+
+(a) Published technical Xeon AI workshops (computer vision, SLM) proving breakthrough techniques-hierarchical shifted-window transformers, CPU-based inference with stop-token/EOS optimization, and a novel "zoom-in-AI" method-culminating in the $100M+ McDonald's ARCIQ design win (22,788 Dell XR8000/Xeon 4514Y systems through Sept. 2027), with deep specialization shown via the AI-Kits/8x8x8 benchmark methodology.
+(b) Founded the Xeon-Edge-AI computer-vision architecture benchmark (8x8x8) with Intel's Performance & Power team as a new, repeatable foundation now being extended with OpenVINO, distributed solutions, SLM, and agentic workloads-clearly distinguishing breakthrough work from existing roadmap execution.
+(c) Now directly informs Intel Architecture Power & Performance Group decisions on P-core/E-core allocation, integrated Ethernet, and AI accelerators for Xeon and Nova Lake-class silicon.
+(d) Added 8 new patent filings and 5 grants (100+ total) and closed a 10-year ATIS NTN standards effort opening Xeon Edge AI to SpaceX, Iridium, and Amazon LEO; added a new mentee and refreshed references to foreground technical depth over demos.
+(e) Updated technical references now emphasize AI/silicon expertise and Google's adoption of Steve's "AI in a Box" workshop format.
