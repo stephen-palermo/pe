@@ -1,0 +1,17 @@
+Hi Bhupesh,
+
+I am writing to offer my strongest recommendation for Steve for the Professional Engineer (PE) role, with even more supporting evidence for 2026.
+
+A few years ago, Steve was allocated to collaborate with Google GDC and set out to work closely with me and my team. Recognizing that a new approach was needed to secure joint Google-Intel design wins for AI applications running on the CPU, Steve created a series of technical repositories that (1) mechanized CPU-native AI capabilities for applications within Google's GDC, and (2) established a model for jointly staging GDC customers in an exclusive Arizona lab. Steve built several AI repos, including advanced object detection implementations across multiple AI frameworks (OpenVINO, PyTorch, Paddle), to pinpoint customer requirements. Over the past year, he extended this work to include Small Language Model (Gemma-4) capabilities. Specifically, Steve leveraged CPU silicon matrix extensions (AMX tiles) and associated mathematical accelerators (BF16, INT8, etc.), together with multiple AI software frameworks (OpenVINO, PyTorch), to meet customer use cases using a CPU-only approach. He experimented extensively with silicon tile packing and unpacking, Google's Gemma-4 end-of-sequence handling, batched versus unbatched threads, and Page Attention and Key-Value caching methods. While AI continues to open new approaches to customer solutions, it is Steve's work specifically that has helped us maintain and secure current and future joint design wins.
+
+Over the past year, Steve has consistently demonstrated technical capabilities fundamental to (1) face-to-face customer engagement at Google's recent GDC Cutting Edge Workshops and industry events (e.g., Chicago, Atlanta, New York, Dell Technologies World, Google Next), and (2) behind-the-scenes lab work that has laid the technical groundwork to secure and improve joint Google-Intel customer design wins.
+
+Last year, I highlighted how Steve helped co-create and deliver the Google GDC Cutting Edge Event workshop in Toronto, where he demonstrated exceptional technical capability and leadership. He was driven to make the event engaging and productive, proactively identifying and minimizing technical friction so participants could focus on the core challenge. He designed and led the "Object Detection" portion of the event, an AI inference challenge showcasing Google GDC's CPU-only performance, allowing participants to dynamically select AI models, quantization levels, input frame rates, and frameworks to illustrate high-performance AI inference without GPUs.
+
+This year, I reaffirm and reinforce my support for Steve's advancement. He has continued to expand his technical contributions, has become an organic, trusted extension of my team, and has earned my full confidence.
+
+Sincerely,
+
+Mike Ensor
+Google Tech Lead, Distributed Edge Solutions
+(206) 973-6621
